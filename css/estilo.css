@@ -76,7 +76,7 @@ nav ul li a{
 
 header{
 
-	background-image: url('../img/fundo4.jpg');
+	background-image: url('../img/piano.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -402,3 +402,11 @@ header{
 
 
 }
+
+iframe{
+	text-align: center;
+	width: 60%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
